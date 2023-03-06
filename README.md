@@ -34,8 +34,18 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     2 hrs 35 mins   ██████████████████████▓░░   90.09 %
-Other        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+From: 27 February 2023 - To: 06 March 2023
+
+Total Time: 1 hr 42 mins
+
+Python            28 mins         ███████░░░░░░░░░░░░░░░░░░   27.97 %
+Bash              28 mins         ███████░░░░░░░░░░░░░░░░░░   27.87 %
+Markdown          21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.63 %
+JSON              15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
+SQL               8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+HTML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
