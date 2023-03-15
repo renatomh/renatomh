@@ -17,6 +17,30 @@ I am a mechatronics engineer ðŸ¦¾ turned into a full-stack software engineer ðŸ’
 
 I'm passionate about figuring out new ways of automating boring and repetitive tasks, in order to help people around me. And through technology, I've managed to achieve this in many different fields.
 
+**Tech Stack:**
+
+[![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7E66A?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
+[![React](https://img.shields.io/badge/React-5ED3F3?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![React native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
+[![Node](https://img.shields.io/badge/Node.js-7CB73F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![DO](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)](https://www.digitalocean.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-1D4A65?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F5E8D?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Figma](https://img.shields.io/badge/Figma-F76E5F?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Anaconda](https://img.shields.io/badge/anaconda-0078D4?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
 <img align="right" alt="Coding" src="./assets/coding.png" width="408" />
   
 **Some Personal Briefing:**
