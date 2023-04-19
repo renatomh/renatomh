@@ -58,12 +58,12 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Total Time: 2 hrs 15 mins
+Total Time: 3 hrs 17 mins
 
-Python     2 hrs 5 mins    ███████████████████████▒░   92.79 %
-Other      9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+Python            2 hrs 48 mins   █████████████████████▒░░░   85.32 %
+Other             13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
 ```
 
 <!--END_SECTION:waka-->
