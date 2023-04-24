@@ -41,7 +41,7 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 [![Anaconda](https://img.shields.io/badge/anaconda-0078D4?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-<img align="right" alt="Coding" src="./assets/coding.png" width="408" />
+<!--<img align="right" alt="Coding" src="./assets/coding.png" width="408" />-->
   
 **Some Personal Briefing:**
 
