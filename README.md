@@ -58,15 +58,17 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2023 - To: 04 May 2023
+From: 28 April 2023 - To: 05 May 2023
 
-Total Time: 6 hrs 35 mins
+Total Time: 5 hrs 20 mins
 
-Python       5 hrs 8 mins    ███████████████████▓░░░░░   78.00 %
-Markdown     47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-JSON         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-Text         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python       3 hrs 53 mins   ██████████████████▒░░░░░░   73.04 %
+Markdown     47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+JSON         25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Text         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
