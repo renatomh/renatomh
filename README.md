@@ -58,18 +58,19 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2023 - To: 10 May 2023
+From: 04 May 2023 - To: 11 May 2023
 
-Total Time: 7 hrs
+Total Time: 10 hrs 23 mins
 
-Python       6 hrs 3 mins    █████████████████████▓░░░   86.54 %
-INI          23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Markdown     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-HTML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       8 hrs 20 mins   ████████████████████░░░░░   80.29 %
+Markdown     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+JSON         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+INI          32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
