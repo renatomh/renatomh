@@ -57,8 +57,8 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
 Total Time: 15 hrs 50 mins
 
