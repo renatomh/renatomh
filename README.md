@@ -58,16 +58,13 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
-Total Time: 10 hrs 55 mins
+Total Time: 6 hrs 44 mins
 
-TypeScript   9 hrs 30 mins   █████████████████████▓░░░   87.04 %
-Python       1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Less         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   6 hrs 33 mins   ████████████████████████▒   97.12 %
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Less         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
