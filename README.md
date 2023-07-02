@@ -58,17 +58,16 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 30 June 2023
+From: 24 June 2023 - To: 01 July 2023
 
-Total Time: 1 hr 24 mins
+Total Time: 1 hr 22 mins
 
-TypeScript   25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.11 %
-Bash         22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
-Markdown     13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-Other        13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Go           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript   25 mins         ███████▓░░░░░░░░░░░░░░░░░   30.90 %
+Bash         22 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
+Markdown     13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+Other        13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
