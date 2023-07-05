@@ -58,18 +58,18 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 June 2023 - To: 03 July 2023
+From: 27 June 2023 - To: 04 July 2023
 
-Total Time: 2 hrs 2 mins
+Total Time: 6 hrs 22 mins
 
-Go           38 mins         ███████▓░░░░░░░░░░░░░░░░░   31.21 %
-TypeScript   26 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-Bash         22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-Markdown     13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-Other        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Go           4 hrs 54 mins   ███████████████████▒░░░░░   76.99 %
+TypeScript   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Bash         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Markdown     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Other        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
