@@ -58,20 +58,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2023 - To: 10 July 2023
+From: 04 July 2023 - To: 11 July 2023
 
-Total Time: 6 hrs 12 mins
+Total Time: 2 hrs 51 mins
 
-Go          4 hrs 16 mins   █████████████████▒░░░░░░░   68.95 %
-Python      54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-SQL         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-Terraform   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Markdown    12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Bash        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Text        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python      1 hr 52 mins    ████████████████▒░░░░░░░░   65.85 %
+SQL         32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+Terraform   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Markdown    8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Bash        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Text        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+INI         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
