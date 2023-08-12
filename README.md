@@ -58,15 +58,15 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-Total Time: 5 hrs 53 mins
+Total Time: 7 hrs 41 mins
 
-Go         5 hrs 24 mins   ███████████████████████░░   91.72 %
-Bash       18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-SQL        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Python     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go         6 hrs 13 mins   ████████████████████▒░░░░   80.85 %
+Python     56 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+Bash       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+SQL        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Makefile   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
