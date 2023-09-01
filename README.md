@@ -58,20 +58,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-Total Time: 12 hrs 32 mins
+Total Time: 15 hrs 5 mins
 
-Python            7 hrs 25 mins   ██████████████▓░░░░░░░░░░   59.18 %
-TypeScript        3 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-JSON              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-SQL               24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-INI               22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Bash              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Markdown          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Text              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Ezhil             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Docker            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python            7 hrs 49 mins   █████████████░░░░░░░░░░░░   51.85 %
+TypeScript        5 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   35.30 %
+SQL               32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+INI               22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JSON              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Bash              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Markdown          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Assembly          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Text              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Ezhil             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
