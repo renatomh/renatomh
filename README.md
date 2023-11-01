@@ -58,20 +58,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 30 October 2023
+From: 24 October 2023 - To: 31 October 2023
 
-Total Time: 13 hrs 37 mins
+Total Time: 12 hrs 16 mins
 
-TypeScript        5 hrs 10 mins   █████████▓░░░░░░░░░░░░░░░   38.01 %
-Python            5 hrs 3 mins    █████████▒░░░░░░░░░░░░░░░   37.10 %
-JavaScript        1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-YAML              43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-JSON              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Markdown          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Bash              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Other             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Gettext Catalog   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Text              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript        3 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   32.50 %
+Python            3 hrs 37 mins   ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+JavaScript        1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+YAML              1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Bash              24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Markdown          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+JSON              20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Terraform         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+SQL               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Other             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
