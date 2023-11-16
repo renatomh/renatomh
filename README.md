@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 08 November 2023 - To: 15 November 2023
 
-Total Time: 9 hrs 18 mins
+Total Time: 6 hrs 51 mins
 
-Python            4 hrs 14 mins   ███████████▒░░░░░░░░░░░░░   45.69 %
-Markdown          1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-YAML              47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Docker            38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Makefile          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Text              32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-JSON              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-INI               20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-Bash              18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Other             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Python     3 hrs 47 mins   █████████████▓░░░░░░░░░░░   55.22 %
+Markdown   44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Text       25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+JSON       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+INI        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+YAML       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Docker     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Makefile   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Bash       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
