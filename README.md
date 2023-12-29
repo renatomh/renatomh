@@ -64,20 +64,12 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2023 - To: 27 December 2023
+From: 21 December 2023 - To: 28 December 2023
 
-Total Time: 5 hrs 55 mins
+Total Time: 3 hrs 17 mins
 
-Go                3 hrs 17 mins   ██████████████░░░░░░░░░░░   55.41 %
-TypeScript        1 hr 37 mins    ███████░░░░░░░░░░░░░░░░░░   27.44 %
-JSON              24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Python            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-YAML              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Bash              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Markdown          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Makefile          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Docker            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Go    3 hrs 17 mins   █████████████████████████   99.96 %
+GAP   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
