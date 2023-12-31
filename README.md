@@ -64,12 +64,12 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 29 December 2023
+From: 23 December 2023 - To: 30 December 2023
 
-Total Time: 3 hrs 17 mins
+Total Time: 2 hrs 15 mins
 
-Go    3 hrs 17 mins   █████████████████████████   99.96 %
-GAP   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   2 hrs 14 mins   ████████████████████████▓   98.95 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
