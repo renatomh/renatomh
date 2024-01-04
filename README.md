@@ -64,12 +64,18 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-Total Time: 2 hrs 15 mins
+Total Time: 5 hrs 24 mins
 
-TypeScript   2 hrs 14 mins   ████████████████████████▓   98.95 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Python            3 hrs 2 mins    ██████████████░░░░░░░░░░░   56.33 %
+TypeScript        2 hrs 14 mins   ██████████▒░░░░░░░░░░░░░░   41.33 %
+SQL               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Gettext Catalog   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Docker            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
