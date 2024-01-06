@@ -64,18 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 04 January 2024
+From: 29 December 2023 - To: 05 January 2024
 
-Total Time: 5 hrs 24 mins
+Total Time: 6 hrs 18 mins
 
-Python            3 hrs 2 mins    ██████████████░░░░░░░░░░░   56.33 %
-TypeScript        2 hrs 14 mins   ██████████▒░░░░░░░░░░░░░░   41.33 %
-SQL               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Gettext Catalog   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Docker            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python            3 hrs 2 mins    ████████████░░░░░░░░░░░░░   48.29 %
+TypeScript        2 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   35.43 %
+Go                53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
+SQL               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JSON              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Gettext Catalog   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Docker            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+GAP               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
