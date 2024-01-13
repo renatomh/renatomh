@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
-Total Time: 6 hrs 53 mins
+Total Time: 5 hrs 59 mins
 
-Go           1 hr 56 mins    ███████░░░░░░░░░░░░░░░░░░   28.26 %
-Terraform    1 hr 41 mins    ██████░░░░░░░░░░░░░░░░░░░   24.57 %
-YAML         1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Markdown     37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-SQL          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Bash         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Makefile     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Git Config   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Terraform    1 hr 41 mins    ███████░░░░░░░░░░░░░░░░░░   28.26 %
+YAML         1 hr 4 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
+Go           1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+Markdown     37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+SQL          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Bash         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Makefile     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Git Config   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
