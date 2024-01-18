@@ -64,20 +64,11 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 16 January 2024
+From: 10 January 2024 - To: 17 January 2024
 
-Total Time: 4 hrs 6 mins
+Total Time: 0 secs
 
-Terraform    1 hr 41 mins    ██████████▒░░░░░░░░░░░░░░   41.15 %
-YAML         44 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-Markdown     28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Bash         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
-Git Config   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-SQL          12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Makefile     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-HCL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
