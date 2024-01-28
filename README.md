@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2024 - To: 26 January 2024
+From: 20 January 2024 - To: 27 January 2024
 
-Total Time: 6 hrs 17 mins
+Total Time: 3 hrs 55 mins
 
-Python            5 hrs 2 mins    ████████████████████░░░░░   80.07 %
-YAML              38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-JSON              18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Text              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Markdown          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Gettext Catalog   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Terraform         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-INI               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python            3 hrs 30 mins   ██████████████████████▒░░   89.24 %
+YAML              9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Text              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Markdown          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Gettext Catalog   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Terraform         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+INI               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Docker            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+SQL               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
