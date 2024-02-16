@@ -64,19 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2024 - To: 14 February 2024
+From: 08 February 2024 - To: 15 February 2024
 
-Total Time: 1 hr 56 mins
+Total Time: 2 hrs 14 mins
 
-JavaScript   1 hr 32 mins    ████████████████████░░░░░   79.58 %
-HTML         13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-XML          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   1 hr 58 mins    ██████████████████████░░░   88.53 %
+Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+JSON         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
