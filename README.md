@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2024 - To: 01 March 2024
+From: 24 February 2024 - To: 02 March 2024
 
-Total Time: 58 mins
+Total Time: 59 mins
 
-Terraform    22 mins         ██████████░░░░░░░░░░░░░░░   39.41 %
-Markdown     14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
-Makefile     10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-Docker       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-HCL          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-SQL          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown     24 mins         ██████████▒░░░░░░░░░░░░░░   41.44 %
+HCL          10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Makefile     7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
+Terraform    7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Docker       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+SQL          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
