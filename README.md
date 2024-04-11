@@ -64,15 +64,11 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2024 - To: 09 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Total Time: 50 mins
+Total Time: 6 mins
 
-Makefile    28 mins         ██████████████▒░░░░░░░░░░   57.74 %
-Python      8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
-HCL         7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-Bash        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Terraform   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Python   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
