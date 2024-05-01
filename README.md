@@ -64,12 +64,13 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2024 - To: 29 April 2024
+From: 23 April 2024 - To: 30 April 2024
 
-Total Time: 24 mins
+Total Time: 1 hr 44 mins
 
-SQL        13 mins         ██████████████▒░░░░░░░░░░   56.78 %
-Markdown   10 mins         ██████████▓░░░░░░░░░░░░░░   43.22 %
+SQL        1 hr 10 mins    █████████████████░░░░░░░░   67.63 %
+Markdown   19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+Other      14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
 ```
 
 <!--END_SECTION:waka-->
