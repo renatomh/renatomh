@@ -64,20 +64,19 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 12 May 2024
+From: 06 May 2024 - To: 13 May 2024
 
-Total Time: 11 hrs 23 mins
+Total Time: 8 hrs 47 mins
 
-Python       6 hrs 59 mins   ███████████████▒░░░░░░░░░   61.38 %
-Markdown     1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-YAML         1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-Bash         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Text         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-INI          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-Makefile     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python       5 hrs 25 mins   ███████████████▒░░░░░░░░░   61.61 %
+YAML         1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 %
+Markdown     44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Bash         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Text         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+INI          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Makefile     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
