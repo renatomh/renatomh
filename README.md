@@ -64,17 +64,12 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-Total Time: 2 hrs 16 mins
+Total Time: 2 mins
 
-Python       1 hr 9 mins     ████████████▓░░░░░░░░░░░░   51.12 %
-Markdown     47 mins         ████████▓░░░░░░░░░░░░░░░░   35.04 %
-JSON         15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python     1 min           █████████████████▓░░░░░░░   70.27 %
+Markdown   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.73 %
 ```
 
 <!--END_SECTION:waka-->
