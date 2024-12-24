@@ -64,14 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2024 - To: 22 December 2024
+From: 16 December 2024 - To: 23 December 2024
 
-Total Time: 48 mins
+Total Time: 1 hr 15 mins
 
-TypeScript   39 mins         ████████████████████▒░░░░   81.65 %
-SQL          7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript   39 mins         █████████████░░░░░░░░░░░░   52.62 %
+Markdown     10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Docker       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+SQL          7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
