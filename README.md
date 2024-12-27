@@ -64,20 +64,19 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2024 - To: 25 December 2024
+From: 19 December 2024 - To: 26 December 2024
 
-Total Time: 1 hr 15 mins
+Total Time: 26 mins
 
-TypeScript   39 mins         █████████████░░░░░░░░░░░░   52.62 %
-Markdown     10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Docker       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-SQL          7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown     10 mins         █████████▓░░░░░░░░░░░░░░░   38.17 %
+Docker       8 mins          ████████░░░░░░░░░░░░░░░░░   32.09 %
+JSON         5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Git Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Batchfile    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
