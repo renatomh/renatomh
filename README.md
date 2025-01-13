@@ -64,11 +64,19 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 33 mins
 
-No activity tracked
+Go                         34 mins         █████████▒░░░░░░░░░░░░░░░   37.22 %
+Python                     19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
+YAML                       14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+JSON                       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Bash                       8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Markdown                   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other                      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Docker                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
