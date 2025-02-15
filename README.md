@@ -64,16 +64,19 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2025 - To: 13 February 2025
+From: 07 February 2025 - To: 14 February 2025
 
-Total Time: 1 hr 8 mins
+Total Time: 3 hrs 43 mins
 
-Python       31 mins         ███████████▒░░░░░░░░░░░░░   45.54 %
-Go           21 mins         ████████░░░░░░░░░░░░░░░░░   31.94 %
-Bash         13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
-Text         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python                     2 hrs 2 mins    █████████████▓░░░░░░░░░░░   54.96 %
+Bash                       48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+Go                         21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+YAML                       20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+JSON                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Text                       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Nginx configuration file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Markdown                   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Git Config                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
