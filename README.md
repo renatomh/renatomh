@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-Total Time: 12 hrs 21 mins
+Total Time: 11 hrs 34 mins
 
-Python       7 hrs 54 mins   ████████████████░░░░░░░░░   63.93 %
-Markdown     2 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-Bash         58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-PowerShell   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Makefile     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-SQL          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python       8 hrs 27 mins   ██████████████████▒░░░░░░   73.09 %
+Markdown     1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Makefile     39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+PowerShell   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
