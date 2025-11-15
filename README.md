@@ -64,15 +64,17 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2025 - To: 13 November 2025
+From: 07 November 2025 - To: 14 November 2025
 
-Total Time: 9 hrs 35 mins
+Total Time: 11 hrs 23 mins
 
-Python     7 hrs 20 mins   ███████████████████░░░░░░   76.53 %
-JSON       1 hr 55 mins    █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Other      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Markdown   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Bash       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python     8 hrs 19 mins   ██████████████████▒░░░░░░   73.08 %
+JSON       2 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.23 %
+YAML       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Other      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
