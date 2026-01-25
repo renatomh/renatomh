@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2026 - To: 23 January 2026
+From: 17 January 2026 - To: 24 January 2026
 
-Total Time: 16 hrs 9 mins
+Total Time: 13 hrs 41 mins
 
-Python       13 hrs 37 mins  █████████████████████░░░░   84.31 %
-Markdown     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Makefile     38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-CSV          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-HTML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Diff         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-TOML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python       11 hrs 15 mins  ████████████████████▓░░░░   82.15 %
+Makefile     50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Markdown     37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+CSV          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
