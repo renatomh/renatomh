@@ -64,11 +64,15 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Total Time: 41 mins
+Total Time: 2 hrs 15 mins
 
-Python   41 mins               █████████████████████████   100.00 %
+Python     1 hr 36 mins          █████████████████▓░░░░░░░   71.27 %
+CSV        13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+Other      12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Markdown   10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+HTML       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
