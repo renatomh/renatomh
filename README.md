@@ -64,17 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2026 - To: 12 March 2026
+From: 06 March 2026 - To: 13 March 2026
 
-Total Time: 6 hrs 37 mins
+Total Time: 8 hrs 34 mins
 
-Python     5 hrs 37 mins         █████████████████████▒░░░   84.76 %
-JSON       21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-TOML       15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Markdown   10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Other      9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Text       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-INI        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       7 hrs 21 mins         █████████████████████▒░░░   85.87 %
+JSON         21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Other        18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+TOML         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Markdown     10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Text         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Makefile     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+INI          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
