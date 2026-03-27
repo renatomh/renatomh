@@ -64,20 +64,17 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2026 - To: 25 March 2026
+From: 19 March 2026 - To: 26 March 2026
 
-Total Time: 18 hrs 59 mins
+Total Time: 17 hrs 28 mins
 
-Python       14 hrs 28 mins        ███████████████████░░░░░░   76.24 %
-JSON         1 hr 27 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Markdown     1 hr 17 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Other        35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-CSV          29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Diff         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-TOML         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-YAML         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Git Config   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     13 hrs 5 mins         ██████████████████▓░░░░░░   74.91 %
+Markdown   1 hr 40 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+JSON       1 hr 20 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+CSV        35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Other      31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Diff       13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TOML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
