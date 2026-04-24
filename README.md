@@ -64,18 +64,16 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2026 - To: 22 April 2026
+From: 17 April 2026 - To: 24 April 2026
 
-Total Time: 2 hrs 45 mins
+Total Time: 36 mins
 
-Python   1 hr 53 mins          █████████████████▒░░░░░░░   68.92 %
-HTML     24 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-JSON     11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-CSV      9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-YAML     5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Text     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Docker   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+HTML     24 mins               ████████████████▓░░░░░░░░   66.63 %
+YAML     5 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
+Python   5 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
+Text     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Other    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Docker   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
