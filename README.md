@@ -64,14 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-Total Time: 51 mins
+Total Time: 2 hrs 1 min
 
-Python     40 mins               ████████████████████░░░░░   79.65 %
-Markdown   10 mins               █████░░░░░░░░░░░░░░░░░░░░   20.13 %
-Diff       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python       56 mins               ███████████▓░░░░░░░░░░░░░   46.26 %
+Markdown     26 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+Other        11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+HTML         6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Makefile     5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Text         4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+CSS          3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Bash         3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+YAML         3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+INI          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
