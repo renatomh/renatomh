@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2026 - To: 28 June 2026
+From: 22 June 2026 - To: 29 June 2026
 
-Total Time: 11 hrs 29 mins
+Total Time: 10 hrs 58 mins
 
-Python            6 hrs 25 mins         ██████████████░░░░░░░░░░░   55.96 %
-Markdown          2 hrs 7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-HTML              51 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Other             28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-Gettext Catalog   21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-JSON              15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Text              14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Bash              11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Makefile          10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-TOML              9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python            5 hrs 57 mins         █████████████▓░░░░░░░░░░░   54.28 %
+Markdown          2 hrs 7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
+HTML              50 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Other             28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Gettext Catalog   21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JSON              15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Text              12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Bash              11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Makefile          9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TOML              9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
