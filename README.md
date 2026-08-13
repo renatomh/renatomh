@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-Total Time: 18 hrs 15 mins
+Total Time: 13 hrs 35 mins
 
-TypeScript      10 hrs 15 mins        ██████████████░░░░░░░░░░░   56.14 %
-Markdown        3 hrs 37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-Python          2 hrs 34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-Text            38 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-JSON            31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Other           8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Bash            8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Docker          6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-JavaScript      6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-CSV             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript    8 hrs 39 mins         ████████████████░░░░░░░░░   63.66 %
+Markdown      2 hrs 29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+Python        1 hr 31 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Text          22 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+JSON          13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Docker        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Other         4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Bash          2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+XML           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JavaScript    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
