@@ -64,19 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 05 October 2026
+From: 29 September 2026 - To: 06 October 2026
 
-Total Time: 2 hrs 38 mins
+Total Time: 2 hrs 26 mins
 
-Python            1 hr 40 mins          ████████████████░░░░░░░░░   63.46 %
-TypeScript        24 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-HTML              11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-CSS               10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-Markdown          7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Text              3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Gettext Catalog   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python            1 hr 19 mins          █████████████▒░░░░░░░░░░░   53.90 %
+Markdown          30 mins               █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+TypeScript        24 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
+Other             4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Text              3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Git Config        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Godot Resource    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+HTML              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Gettext Catalog   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 JSON              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JavaScript        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
