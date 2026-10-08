@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Total Time: 5 hrs 56 mins
+Total Time: 9 hrs 59 mins
 
-Python            1 hr 50 mins          ███████▓░░░░░░░░░░░░░░░░░   30.96 %
-Markdown          1 hr 3 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
-TypeScript        55 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-Text              24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Godot Resource    18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Other             15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-JSON              14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-INI               11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-HTML              9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-GDScript          9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Python            3 hrs 5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.91 %
+TypeScript        2 hrs 37 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+Markdown          1 hr 9 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Text              41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Other             20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+HTML              19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Godot Resource    18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JSON              17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Image (png)       15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+INI               11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
