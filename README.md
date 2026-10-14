@@ -64,20 +64,20 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2026 - To: 13 October 2026
+From: 07 October 2026 - To: 14 October 2026
 
-Total Time: 20 hrs 25 mins
+Total Time: 16 hrs 55 mins
 
-GDScript3         3 hrs 33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-TypeScript        3 hrs 31 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
-Image (png)       3 hrs 3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
-Python            2 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Markdown          2 hrs 8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-Other             1 hr 31 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Godot Resource    59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Text              56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-GDScript          50 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Bash              28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+GDScript3         3 hrs 24 mins         █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+TypeScript        2 hrs 59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+Image (png)       2 hrs 56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+Python            1 hr 43 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Markdown          1 hr 35 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+Other             1 hr 20 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Godot Resource    41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+GDScript          40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Text              36 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Bash              28 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
