@@ -64,20 +64,14 @@ I'm passionate about figuring out new ways of automating boring and repetitive t
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2026 - To: 16 October 2026
+From: 10 October 2026 - To: 17 October 2026
 
-Total Time: 6 hrs 33 mins
+Total Time: 29 mins
 
-GDScript3        2 hrs 18 mins         ████████▓░░░░░░░░░░░░░░░░   35.22 %
-Image (png)      1 hr 20 mins          █████░░░░░░░░░░░░░░░░░░░░   20.40 %
-Other            43 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Godot Resource   32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Bash             28 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-GDScript         27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Markdown         22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-GDShader         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Text             6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Python           3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Bash       28 mins               ████████████████████████░   95.78 %
+YAML       1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Python     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
